@@ -1,6 +1,6 @@
 # 🧠 Real-Time Face Recognition Attendance System
 
-![Banner](Samples Images For Testing/face-scanning-technology-vector.jpg)
+![Banner](Samples_Images_For_Testing/face-scanning-technology-vector.jpg)
 
 This project is a **real-time face recognition-based attendance system** built using **OpenCV** and **MediaPipe**. It captures video from your webcam, detects and recognizes faces, and logs attendance automatically into dated CSV files.
 
